@@ -1,6 +1,2 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=masachika-kamada&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masachika-kamada&hide=jupyter%20notebook" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=masachika-kamada&count_private=true&show_icons=true" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=masachika-kamada" />
