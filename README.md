@@ -1,2 +1,1 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=masachika-kamada&count_private=true&show_icons=true" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=masachika-kamada" />
+
