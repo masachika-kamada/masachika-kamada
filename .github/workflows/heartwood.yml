@@ -2,7 +2,7 @@ name: Heartwood
 
 on:
   schedule:
-    - cron: "17 3 * * *" # once a day
+    - cron: "17 3 * * 1" # once a week
   workflow_dispatch:
 
 permissions:
