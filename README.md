@@ -7,7 +7,7 @@
   <a href="https://masachika-kamada.github.io/heartwood/#masachika-kamada">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="heartwood/heartwood-dark.webp">
-      <img src="heartwood/heartwood-light.webp" alt="My GitHub contributions drawn as the growth rings of a tree trunk" width="440">
+      <img src="heartwood/heartwood-light.webp" alt="My GitHub contributions drawn as the growth rings of a tree trunk" width="600">
     </picture>
   </a>
 </p>
